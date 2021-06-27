@@ -1,0 +1,91 @@
+#contact{
+  background: #E27866;
+  display: flex;
+  flex-direction: column;
+}
+.contactus{
+  color: white;
+
+  width: 30%;
+  height: 20%;
+}
+.contacth5{
+  text-align: center;
+  font-size: 48px;
+}
+.contactp{
+  margin-top: 30px;
+  text-align: center;
+  font-size: 18px;
+}
+.contactul{
+ border: none;
+  display: flex;
+  flex-direction: column;
+
+  margin: 20px 20px;
+    color:grey;
+
+  font-size: 20px;
+}
+
+.contactinput{
+
+  border: none;
+  margin: 20px 77px;
+  color: #86878B;
+  font-size: 24px;
+}
+
+.contactform1{
+border-radius: 6px;
+background-color: #FFFFFF;
+
+  width: 40%;
+  height: 50%;
+}
+.contacthr{
+  margin-left:80px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 60%;
+  height: 2px;
+  background-color: #86878B;
+  border: none;
+}
+.contactradio{
+
+  margin-top: 30px;
+  margin-left: 50px;
+  justify-content:flex-start;
+height: 50px;
+
+  display: flex;
+  flex-direction: row;
+}
+.contactinputs{
+  color: green;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: row;
+}
+.contactperonal{
+  margin-left: 10px;
+  display: flex;
+}
+.contactbutton1{
+  font-size: 20px;
+  margin-left: 200px;
+  margin-top: 50px;
+  color: white;
+  border: none;
+border-radius: 10px;
+   background-color: #41D395;
+   width: 200px;
+    height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-around;
+  align-items: center;
+}
